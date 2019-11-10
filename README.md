@@ -1,2 +1,3 @@
-# The-way-to-learn-Python
-This is the way to learn Python
+Just Keep learning!
+
+In order to record my learning path.
